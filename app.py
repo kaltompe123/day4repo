@@ -1,4 +1,4 @@
-def greet(gcp):
+def greet(azure):
     """
     Function to greet a user by name.
     Args:
