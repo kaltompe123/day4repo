@@ -1,4 +1,4 @@
-def greet(name):
+def greet(aws):
     """
     Function to greet a user by name.
     Args:
